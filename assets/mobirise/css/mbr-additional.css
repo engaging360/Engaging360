@@ -3017,6 +3017,11 @@ a {
 .cid-rWug12B5DL .card-description {
   color: #000000;
 }
+.cid-rWSm9UHlTu {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #057d9d;
+}
 .cid-rWufx7FOgK {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -7129,7 +7134,7 @@ pre {
   background-color: #f3f3f3;
 }
 .cid-rWRD7xlPaO .text-content {
-  padding-bottom: 105px;
+  padding-bottom: 120px;
 }
 .cid-rWRD7xlPaO .content-container .btn-bgr {
   z-index: 0;
@@ -9252,7 +9257,7 @@ pre {
   background-color: #b2ccd2;
 }
 .cid-rWS4RMQy1O .text-content {
-  padding-bottom: 105px;
+  padding-bottom: 120px;
 }
 .cid-rWS4RMQy1O .content-container .btn-bgr {
   z-index: 0;
@@ -11375,7 +11380,7 @@ pre {
   background-color: #55b4d4;
 }
 .cid-rWS515Jggg .text-content {
-  padding-bottom: 105px;
+  padding-bottom: 120px;
 }
 .cid-rWS515Jggg .content-container .btn-bgr {
   z-index: 0;
@@ -11621,13 +11626,13 @@ pre {
   color: #8d97ad;
 }
 .cid-rWS51wxHPp .card-img span {
-  color: #1dc9cb;
+  color: #ff7f9f;
 }
 .cid-rWS51wxHPp .row-item {
   margin-bottom: 2rem;
 }
 .cid-rWS51wxHPp .row-item:hover .wrapper {
-  background: linear-gradient(90deg, #369898, #5eeebb);
+  background: linear-gradient(90deg, #057d9d, #1da1f2);
   cursor: pointer;
   -webkit-transform: translateY(-10px);
   transform: translateY(-10px);
